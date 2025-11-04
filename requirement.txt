@@ -1,0 +1,13 @@
+tensorflow 2.20 release
+copy tensorflow/tensorflow to include folder
+libraries build on it are in libraries.zip
+link these libraries in your folder
+
+
+
+
+
+All the respctive resources belong to their respective owner and i dont claim any of these
+
+
+Author:Vishnu Mohan
